@@ -14,6 +14,8 @@
 
 ![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_149.png)
 
+Чарт доступен по ссылке https://github.com/vmmaltsev/kuber-homeworks-2.5/tree/main/myapp
+
 ---
 
 Задание 2. Запустить две версии в разных неймспейсах
@@ -28,3 +30,4 @@
 
 ![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_151.png)
 
+Чарт доступен по ссылке https://github.com/vmmaltsev/kuber-homeworks-2.5/tree/main/myapp
